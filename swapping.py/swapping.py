@@ -11,4 +11,4 @@ a = b
 b = temp
 
 print("After swapping:")
-print("a =", a, "b =",b)
+print("a =", a, "b =",b
